@@ -1,4 +1,4 @@
-# comments
+# data structure
 ---
 
-comments of my [blog](https://gaogew.github.io)
+data structure coding by java and python
